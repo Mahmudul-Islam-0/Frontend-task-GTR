@@ -1,5 +1,5 @@
 # Frontend-task-GTR
-**Description**
+**Description**<br>
 This a project I worked on in an internship entrance exam for Genuine Technology and Research Limited. This is a frontend design which is responsive for PCs, tablets and mobile phones.
 
 **How to Run**
