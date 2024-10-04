@@ -41,11 +41,11 @@ nav ul {
 }
 
 .menu {
-    margin-left: 25vw;    
+    padding-left: 20vw;
+    padding-right: 10vw
 }
 .login{
-    margin-left: 10vw;
-    margin-right: -51px;
+    margin-right: -10vw;
 }
 
 .btn3{
